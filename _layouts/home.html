@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="inner clearfix">
+    <section id="main-content">
+        {{ content }}
+    </section>
+
+    <aside id="sidebar">
+        {% capture sidebar %}{% include about-me.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+
+        {% include side.html %}
+    </aside>
+</div>
