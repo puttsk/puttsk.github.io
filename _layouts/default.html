@@ -28,9 +28,10 @@
             {{ content }}
         </div>
 
-        <!--hr class="inner" />
         <footer class="inner">
-            footer
+            <hr/>
+            {% capture footer %}{% include footer.md %}{% endcapture %}
+            {{ footer | markdownify }}
         </footer-->
 
         {% if site.google_analytics %}
