@@ -2,7 +2,10 @@
 layout: home
 ---
 
-## Profile
+## Research Interest
+
+* Parallel Programming and Optimization Techniques on Modern Architectures including Multi-core Processors and Accellerators. 
+* Program Analysis and Optimizing Compiler for High-Performance Computing 
 
 ## Publications
 

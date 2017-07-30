@@ -1,42 +1,12 @@
+{% for publication in site.data.publications %}
 <div class="publication">
-    <h3>Pagoda: Fine-grained GPU Resource Virtualization for Narrow Tasks</h3>
-    <div class="author">Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, and Timothy Rogers</div>
-    <div class="detail">ACM Symposium on Principles and Practice of Parallel Programming (PPoPP), 2017, <span class="highlight">Best Paper Award Nominee</span> </div>
+    <h3>{{publication.title}}</h3>
+    <div class="author">{{publication.author}}</div>
+    <div class="detail">
+        {{publication.detail}} 
+        {% if publication.highlight %}
+        <span class="highlight">{{publication.highlight}}</span> 
+        {% endif %}
+    </div>
 </div>
-
-<div class="publication">
-    <h3>Formalizing Structured Control Flow Graphs</h3>
-    <div class="author">Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann</div>
-    <div class="detail"> International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2016</div>
-</div>
-
-<div class="publication">
-    <h3>Hydra:Extending Shared Address Programming for Accelerator Clusters</h3>
-    <div class="author">Putt Sakdhnagool, Amit Sabne, and Rudolf Eigenmann</div>
-    <div class="detail">International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2015</div>
-</div>
-
-<div class="publication">
-    <h3>Understanding Portability of a High-level Programming Model on Contemporary Heterogeneous Architectures</h3>
-    <div class="author">Amit Sabne, Putt Sakdhnagool, Seyong Lee, and Jeffrey S. Vetter</div>
-    <div class="detail">IEEE Micro Magazine, July-August, 2015</div>
-</div>
-
-<div class="publication">
-    <h3>HeteroDoop: A MapReduce Programming System for Accelerator Clusters</h3>
-    <div class="author">Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann </div>
-    <div class="detail">ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2015</div>
-</div>
-
-<div class="publication">
-    <h3>Evaluating Performance Portability of OpenACC</h3>
-    <div class="author">Amit Sabne, Putt Sakdhnagool, Seyong Lee, and Jeffrey S. Vetter</div>
-    <div class="detail">International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2014</div>
-</div>
-
-<div class="publication">
-    <h3>Effects of Compiler Optimizations in OpenMP to CUDA Translation</h3>
-    <div class="author">Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann </div>
-    <div class="detail">International Workshop on OpenMP (IWOMP), 2012</div>
-</div>
-
+{% endfor %}
