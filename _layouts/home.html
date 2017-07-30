@@ -8,9 +8,10 @@ layout: default
     </section>
 
     <aside id="sidebar">
+        {% include side.html %}
+        
         {% capture sidebar %}{% include about-me.md %}{% endcapture %}
         {{ sidebar | markdownify }}
 
-        {% include side.html %}
     </aside>
 </div>

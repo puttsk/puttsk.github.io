@@ -4,8 +4,14 @@ layout: home
 
 ## Profile
 
-## Educations
+## Publications
 
-## Publication
+{% include publications.html %}
+
+## Posters
+
+{% include posters.html %}
+
+## Educations
 
 ## Work Experience
