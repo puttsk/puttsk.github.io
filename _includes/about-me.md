@@ -6,4 +6,4 @@ Putt Sakdhnagool received his Ph.D. under the supervision of Prof. Rudolf Eigenm
 
 His research interests are mainly focused on programming languages, compiler, distributed and parallel computing, and modern accelerator systems.
 
-[portrait]: {{site.github.url}}/assets/images/putt.jpg
+[portrait]: {{site.github.url}}/assets/images/putt.jpg =250x
