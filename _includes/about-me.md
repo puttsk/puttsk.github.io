@@ -1,7 +1,9 @@
-# About Putt    
+<div>
+<div style="float:left; margin-right:20px;">
+<img src="{{site.url}}/assets/images/putt.jpg" style="width:150px;"/>
+</div>
 
-![Putt][portrait]
-
-Putt Sakdhnagool received his Ph.D. under the supervision of Prof. Rudolf Eigenmann in August 2017. Before that, he received his bachelor's degree (B.Eng.) with first class honors in Computer Engineering from Kasetsart University, Thailand in 2008 and master's degree (M.S.) in Computer Science from University of California, San Diego in 2011. 
-
-[portrait]:{{site.url}}/assets/images/putt.jpg
+<div class="info">
+</div>
+</div>
+<hr style="clear:left;"/>

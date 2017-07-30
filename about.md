@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Putt
 permalink: /about/
+side: side-about.html
 ---
+# About Putt
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Putt Sakdhnagool received his Ph.D. under the supervision of Prof. Rudolf Eigenmann in August 2017. Before that, he received his bachelor's degree (B.Eng.) with first class honors in Computer Engineering from Kasetsart University, Thailand in 2008 and master's degree (M.S.) in Computer Science from University of California, San Diego in 2011. 

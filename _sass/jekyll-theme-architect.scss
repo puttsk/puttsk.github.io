@@ -4,9 +4,13 @@
 $font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
 
 /* LAYOUT STYLES */
+html{
+  overflow-y:scroll;  
+}
+
 body {
   font-family: $font-stack ;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
   color: #666;
@@ -362,12 +366,12 @@ dl dd {
 }
 
 /* PUBLICATION */
-#main-content .publication h3{
+#main-content .publication h4{
   margin-bottom: 4px;
   text-indent: 0px;
 }
 
-#main-content .publication h3:before{
+#main-content .publication h4:before{
   content: none;
   padding-right: 0;
   margin-left: 0;
