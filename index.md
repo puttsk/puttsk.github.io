@@ -11,6 +11,10 @@ side: side-home.html
 * Parallel Programming and Optimization Techniques on Modern Architectures including Multi-core Processors and Accellerators. 
 * Program Analysis and Optimizing Compiler for High-Performance Computing 
 
+<div class="info">
+</div>
+<hr style="clear:left;"/>
+
 ## Publications
 
 {% include publications.html %}
