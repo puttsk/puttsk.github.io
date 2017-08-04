@@ -1,6 +1,11 @@
 {% for publication in site.data.publications %}
 <div class="publication">
-    <h4>{{publication.title}}</h4>
+    <h4>
+        {{publication.title}} 
+        {% if publication.pdf %}
+            [<a href="{{ publication.pdf }}">pdf</a>]
+        {% endif %}
+    </h4>
     <div class="author">{{publication.author}}</div>
     <div class="detail">
         {{publication.detail}} 

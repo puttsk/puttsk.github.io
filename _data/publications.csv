@@ -1,8 +1,9 @@
 title,author,detail,highlight,pdf,ptt
-Pagoda: Fine-grained GPU Resource Virtualization for Narrow Tasks,"Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, and Timothy Rogers","ACM Symposium on Principles and Practice of Parallel Programming (PPoPP), 2017",Best Paper Award Nominee,,
+Pagoda: Fine-grained GPU Resource Virtualization for Narrow Tasks,"Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, and Timothy Rogers","ACM Symposium on Principles and Practice of Parallel Programming (PPoPP), 2017",Best Paper Award Nominee,http://dl.acm.org/authorize?N33843,
 Formalizing Structured Control Flow Graphs,"Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann","International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2016",,,
 Hydra:Extending Shared Address Programming for Accelerator Clusters,"Putt Sakdhnagool, Amit Sabne, and Rudolf Eigenmann","International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2015",,,
 Understanding Portability of a High-level Programming Model on Contemporary Heterogeneous Architectures,"Amit Sabne, Putt Sakdhnagool, Seyong Lee, and Jeffrey S. Vetter","IEEE Micro Magazine, July-August, 2015",,,
-HeteroDoop: A MapReduce Programming System for Accelerator Clusters,"Putt Sakdhnagool, Amit Sabne, and Rudolf Eigenmann","ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2015",,,
+HeteroDoop: A MapReduce Programming System for Accelerator Clusters,"Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann","ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2015",,http://dl.acm.org/authorize?N33955,
 Evaluating Performance Portability of OpenACC,"Amit Sabne, Putt Sakdhnagool, Seyong Lee, and Jeffrey S. Vetter","International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2014",,,
+Scaling large-data computations on multi-GPU accelerators,"Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann","Proceedings of the 27th international ACM conference on International conference on supercomputing (ICS), 2013",,http://dl.acm.org/authorize?N33956,
 Effects of Compiler Optimizations in OpenMP to CUDA Translation,"Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann","International Workshop on OpenMP (IWOMP), 2012",,,
