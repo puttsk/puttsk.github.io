@@ -3,7 +3,18 @@
     <h4>
         {{publication.title}}
         {% if publication.pdf %}
-            [<a href="{{ publication.pdf }}">pdf</a>]
+            {% if publication.pdf_local %}
+                [<a href="{{site.url}}/assets/pdfs/{{publication.pdf}}">pdf</a>]
+            {% else %}
+                [<a href="{{ publication.pdf }}">pdf</a>]
+            {% endif %}    
+        {% endif %}
+        {% if publication.ppt %}
+            {% if publication.ppt_local %}
+                [<a href="{{site.url}}/assets/pdfs/{{publication.ppt}}">ppt</a>]
+            {% else %}
+                [<a href="{{ publication.ppt }}">ppt</a>]
+            {% endif %}    
         {% endif %}
     </h4>
     <div class="author">{{publication.author}}</div>
