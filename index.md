@@ -34,6 +34,9 @@ side: side-home.html
 * **BEng in Computer Engineering**, Kasetsart University, Thailand (March 2008)
 
 ## Work Experience
+* **Researcher**, National Electronics and Computer Technology Center (NECTEC)
+   (Sep 2018 – present)
+   * Researcher in Large Scale Simulation Research Laboratory.
 
 * **Advance Short Term Research Opportunity Program**, Oak Ridge Associated Universities  
    (May 2014 – Aug 2014, Aug 2013 – Dec2013)  
