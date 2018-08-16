@@ -35,7 +35,7 @@ side: side-home.html
 
 ## Work Experience
 * **Researcher**, National Electronics and Computer Technology Center (NECTEC)
-   (Sep 2018 – present)
+   (Sep 2017 – present)
    * Researcher in Large Scale Simulation Research Laboratory.
 
 * **Advance Short Term Research Opportunity Program**, Oak Ridge Associated Universities  
