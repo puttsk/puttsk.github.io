@@ -1,3 +1,5 @@
 title,author,detail,highlight,pdf,pdf_local,ptt
+Optimizing GPU Programs by Register Demotion,"Putt Sakdhnagool, Amit Sabne, and Rudolf Eigenmann","Principles and Practice of Parallel Programming (PPoPP), 2019",,https://dl.acm.org/authorize?N678351
+,,
 Pagoda: A Runtime System to Maximize Utilization in Data Parallel Tasks with Limited Parallelism,"Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, and Timothy Rogers","International Conference on Parallel Architectures and Compilation (PACT), 2016",,http://dl.acm.org/authorize?N33844,,
 Hydra:Extending Shared Address Programming for Accelerator Clusters,"Putt Sakdhnagool, Amit Sabne, and Rudolf Eigenmann",,,lcpc15_poster.pdf,Y,
