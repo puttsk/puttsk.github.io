@@ -18,9 +18,9 @@ email: your-email@example.com
 description: 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://puttsk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://puttsk.com/" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  puttsk
 
 # Build settings
 markdown: kramdown
