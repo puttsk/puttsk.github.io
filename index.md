@@ -34,8 +34,13 @@ side: side-home.html
 * **BEng in Computer Engineering**, Kasetsart University, Thailand (March 2008)
 
 ## Work Experience
+* **Researcher**, NSTDA Supercomputer Center (ThaiSC), National Electronics and Computer Technology Center (NECTEC)
+   (Jan 2019 – present)
+   * Researcher. Focused on high performance computing, parallel programming, GPU computing, and compiler optimization.
+   * Design, configure, and manage HPC cluster.
+
 * **Researcher**, National Electronics and Computer Technology Center (NECTEC)
-   (Sep 2017 – present)
+   (Sep 2017 – Dec 2018)
    * Researcher in Large Scale Simulation Research Laboratory.
 
 * **Advance Short Term Research Opportunity Program**, Oak Ridge Associated Universities  
