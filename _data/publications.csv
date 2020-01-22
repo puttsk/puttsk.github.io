@@ -1,5 +1,4 @@
 title,author,detail,highlight,pdf,pdf_local,ppt,ppt_local
-RegDem: Increasing GPU Performance via Shared Memory Register Spilling, "Putt Sakdhnagool, Amit Sabne, Rudolf Eigenmann","arXiv",,https://arxiv.org/abs/1907.02894,,, 
 Massively parallel 3D image reconstruction,"Xiao Wang, Amit Sabne, Putt Sakdhnagool, Sherman J. Kisner, Charles A. Bouman, and Samuel P. Midkiff","Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2017",ACM Gordon Bell finalists,https://dl.acm.org/authorize?N659870,,,
 Pagoda: Fine-grained GPU Resource Virtualization for Narrow Tasks,"Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, and Timothy Rogers","ACM Symposium on Principles and Practice of Parallel Programming (PPoPP), 2017",Best Paper Award Nominee,http://dl.acm.org/authorize?N33843,,,
 Formalizing Structured Control Flow Graphs,"Amit Sabne, Putt Sakdhnagool, and Rudolf Eigenmann","International Workshop on Languages and Compilers for Parallel Computing (LCPC), 2016",,,,lcpc16_ppt.pdf,Y
