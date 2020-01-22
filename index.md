@@ -8,7 +8,7 @@ side: side-home.html
 
 ## Research Interest
 
-* Parallel Programming and Optimization Techniques on Modern Architectures including Multi-core Processors and Accellerators. 
+* Parallel Programming and Optimization Techniques on Modern Architectures including Multi-core Processors and Accelerators. 
 * Program Analysis and Optimizing Compiler for High-Performance Computing 
 
 <div class="info">
